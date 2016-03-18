@@ -21,3 +21,13 @@ Webpack
 Modernizr
 Flat UI
 Gulp
+
+
+
+
+Install
+npm install
+
+Update Library
+Set the version to "*", and use command 
+npm update --save
